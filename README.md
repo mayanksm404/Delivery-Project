@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 Welcome to the Food Delivery App! This is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application facilitates online food ordering with separate panels for users and administrators.
 
-#Features
+# Features
 1.User Panel:
 
 -Browse restaurants and menus
@@ -15,7 +15,7 @@ Welcome to the Food Delivery App! This is a full-stack web application developed
 -View and update order status
 -User management
 
-#Technologies Used
+# Technologies Used
 1.Frontend:
 
 React.js
@@ -33,11 +33,11 @@ Axios for API calls
 JWT for authentication
 Mongoose for MongoDB object modeling
 
-#Installation
+# Installation
 Prerequisites
 Node.js
 MongoDB
-#steps
+# Steps
 1.clone the repository
 git clone https://github.com/mayanksm404/Delivery-Project/
 cd food-delivery-app
